@@ -11,5 +11,55 @@
     "priority": 1,
     "action": { "type": "block" },
     "condition": { "urlFilter": "*://googleadservices.com/*" }
+  },
+
+  {
+    "id": 3,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://googlesyndication.com/*" }
+  },
+
+  {
+    "id": 4,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://google-analytics.com/*" }
+  },
+
+  {
+    "id": 5,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://googletagservices.com/*" }
+  },
+
+  {
+    "id": 6,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://adnxs.com/*" }
+  },
+
+  {
+    "id": 7,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://adsafeprotected.com/*" }
+  },
+
+  {
+    "id": 8,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://adsrvr.org/*" }
+  },
+
+  {
+    "id": 9,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://amazon-adsystem.com/*" }
   }
+
 ]
